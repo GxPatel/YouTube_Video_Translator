@@ -17,7 +17,7 @@
 - Creates a Python API that will convert the translated text to speech using a pretrained HuggingFace model also.
 
 ### Milestone 5 (Stitching it all together): 
-- Build a UI in Hugging Face Spaces and Streamlit Spaces that will accept as input a youtube video and will output the video with subtitles to a language of your choosing.
+- Builds a UI in Hugging Face Spaces and Streamlit Spaces that will accept as input a youtube video and will output the video with subtitles to a language of your choosing.
 
 ### You can run the application using following command in your python interpretor:
 - "streamlit run app.py"
