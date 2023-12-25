@@ -1,0 +1,15 @@
+pytube
+numpy
+pandas
+openai-whisper
+youtube_transcript_api
+transformers
+streamlit
+whisper
+sentencepiece
+moviepy
+TTS
+argostranslate
+torch
+bs4
+lxml
